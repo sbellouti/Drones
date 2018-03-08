@@ -1,0 +1,16 @@
+C:\tmp\Drones\Drones\Drones\bin\Debug\Drones.exe.config
+C:\tmp\Drones\Drones\Drones\bin\Debug\Drones.exe
+C:\tmp\Drones\Drones\Drones\bin\Debug\Drones.pdb
+C:\tmp\Drones\Drones\Drones\obj\Debug\Drones.csprojResolveAssemblyReference.cache
+C:\tmp\Drones\Drones\Drones\obj\Debug\Drones.csproj.CoreCompileInputs.cache
+C:\tmp\Drones\Drones\Drones\obj\Debug\Drones.exe
+C:\tmp\Drones\Drones\Drones\obj\Debug\Drones.pdb
+C:\tmp\Drones\Drones\Drones\bin\Debug\input.txt
+C:\WorkArea\SocGen\Drones\bin\Debug\input.txt
+C:\WorkArea\SocGen\Drones\bin\Debug\Drones.exe.config
+C:\WorkArea\SocGen\Drones\bin\Debug\Drones.exe
+C:\WorkArea\SocGen\Drones\bin\Debug\Drones.pdb
+C:\WorkArea\SocGen\Drones\obj\Debug\Drones.csprojResolveAssemblyReference.cache
+C:\WorkArea\SocGen\Drones\obj\Debug\Drones.csproj.CoreCompileInputs.cache
+C:\WorkArea\SocGen\Drones\obj\Debug\Drones.exe
+C:\WorkArea\SocGen\Drones\obj\Debug\Drones.pdb
