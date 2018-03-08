@@ -10,7 +10,7 @@ namespace Drones
     /// <summary>
     /// Reads input data from file
     /// </summary>
-    public class CommandFileReader
+    public class CommandFileReader : IDisposable
     {
         private System.IO.StreamReader _fileReader;
         public CommandFileReader(string filePath)
@@ -27,6 +27,11 @@ namespace Drones
             {
                 yield return CommandInterpreter.GetCommandFromString(line);
             }
+        }
+
+        public void Dispose()
+        {
+            _fileReader?.Dispose();
         }
     }
 }
